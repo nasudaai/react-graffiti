@@ -10,3 +10,28 @@ code {
   padding: 6px;
   padding-left: 16px;
 }
+
+.index {
+  border: solid;
+  border-width: 1px;
+  padding: 0 10px 10px 10px;
+  /*background-color: bisque;*/
+}
+
+.app {
+  border: solid;
+  border-width: 1px;
+  padding: 0 10px 10px 10px;
+  margin-top: 5px;
+  /*background-color: beige;*/
+}
+
+.indexH1 {
+  margin-top: 0px;
+  margin-bottom: 0;
+}
+
+.appH1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
